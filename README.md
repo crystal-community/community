@@ -15,3 +15,7 @@ If you want to develop your own library and add that to the crystal-community, y
 - All code must be properly licensed and free to use (MIT, BSD, etc.)
 - The project must be useful to the community (This is debatable of course, but for example a command line nyan-cats shard is not really benificial to the community ;-))
 - The project must have a maintainer, if a project can't find a maintainer anymore, this should be stated in the description.
+
+# Disclaimer
+
+The crystal community is an initiative of the crystal community. Any questions, debates, disputes regarding issues about shards under this community should be held within the crystal community itself. The crystal-lang developers are not responsible for any decisions made by the crystal-community.
